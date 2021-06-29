@@ -17,7 +17,9 @@ Benefits of the CHISEL software are as follows:
 *	The graphical user interface is user-friendly and easy to manage
 
 ### Publication
-[Under review]
+Roszkowiak, Lukasz, et al. "System for quantitative evaluation of DAB&H-stained breast cancer biopsy digital images (CHISEL)." Scientific Reports 11.1 (2021): 1-14
+DOI: https://doi.org/10.1038/s41598-021-88611-y
+Published: 29 April 2021
 
 ****
 ### Acknowledgement

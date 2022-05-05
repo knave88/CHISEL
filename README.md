@@ -23,6 +23,8 @@ DOI: https://doi.org/10.1038/s41598-021-88611-y
 
 ****
 ### Acknowledgement
+The related study was conducted in Laboratory of Processing and Analysis of Microscopic Images (head: D.Sc. Anna Korzynska) in Nalecz Institute of Biocybernetics and Biomedical Engineering Polish Academy of Sciences.
+
 We acknowledge the financial support of the Polish National Science Center grant, PRELUDIUM, 2013/11/N/ST7/02797. The funders had no role in study design, data collection and analysis, or preparation of the software.
 
 ### Liability
